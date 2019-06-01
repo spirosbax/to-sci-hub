@@ -12,3 +12,7 @@ click the green download button and then extract.
 2. Enable Developer mode by ticking the checkbox in the upper-right corner.  
 3. Click on the "Load unpacked extension..." button.  
 4. Select the directory containing your unpacked extension.  
+
+# Screenshots
+![Screen1](https://imgur.com/a/9xHWaTN)
+![Screen2](https://imgur.com/a/iZL4lxq)
