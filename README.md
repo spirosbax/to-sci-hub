@@ -14,5 +14,5 @@ click the green download button and then extract.
 4. Select the directory containing your unpacked extension.  
 
 # Screenshots
-![Screen1](https://imgur.com/a/9xHWaTN)
-![Screen2](https://imgur.com/a/iZL4lxq)
+![Screen1](https://i.imgur.com/o5LajiQ.jpg)
+![Screen2](https://i.imgur.com/J5tTiDq.jpg)
