@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "to SciHub",
+    "short_name": "SciHub",
+    "description": "Searches for selected doi in Scihub",
+    "version": "0.0.1",
+    "minimum_chrome_version": "38",
+    "permissions": [
+        "contextMenus",
+        "tabs"
+    ],
+    "icons": {
+        "128": "assets/sci-hub.png"
+    },
+    "background": {
+        "page": "background.html"
+    }
+}
